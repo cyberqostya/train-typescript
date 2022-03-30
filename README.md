@@ -1,6 +1,6 @@
 # SPA на Typescript (class)  
 
-https://cyberqosyua.github.io/train-typescript  
+https://cyberqostya.github.io/train-typescript/
 
 ### Использованы
 1. Переключение между вкладками
